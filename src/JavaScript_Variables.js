@@ -18,3 +18,10 @@ console.log(typeof siONo)
 console.log(typeof variable)
 var variable = "Hola"
 //Amb var surt "undefined" i amb let surt un error.
+
+//Exercici 4: Declara una variable amb un valor i mostra’l per consola. Modifica el seu valor a un altre tipus de dades. Et deixa? Perquè?
+let variable2 = 1
+console.log(variable2)
+variable2 = "Hola"
+console.log(variable2)
+//Si deixa
