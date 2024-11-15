@@ -17,11 +17,15 @@ console.log(typeof siONo)
 //Exercici 3: Mostra una variable per consola que hagis declarat posteriorment amb var. Què apareix? I si canvies la declaració a let ?
 console.log(typeof variable)
 var variable = "Hola"
-//Amb var surt "undefined" i amb let surt un error.
 
 //Exercici 4: Declara una variable amb un valor i mostra’l per consola. Modifica el seu valor a un altre tipus de dades. Et deixa? Perquè?
 let variable2 = 1
 console.log(variable2)
 variable2 = "Hola"
 console.log(variable2)
-//Si deixa
+
+//Excercici 5
+const  constante1 = 1
+console.log(constante1)
+constante1 = "Hola"
+console.log(constante1)
