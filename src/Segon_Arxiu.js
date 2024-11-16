@@ -29,3 +29,8 @@ const primerCognom = parts[1];
 
 console.log("Primer cognom:", primerCognom);
 console.log("Número de caràcters:", primerCognom.length);
+
+//Exercici 10
+let nomComplet2 = "Agustín Ruiz Sosa";
+const resultat2 = nomComplet2.slice(0, 6) + nomComplet2.slice(7);
+console.log(resultat2);
