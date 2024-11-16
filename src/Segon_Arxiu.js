@@ -22,3 +22,10 @@ const string = "5";
 const resultat = enter / string;
 console.log(resultat);
 
+//Exercici 9
+const nomComplet = "Agustín Ruiz Sosa";
+const parts = nomComplet.split(" ");
+const primerCognom = parts[1];
+
+console.log("Primer cognom:", primerCognom);
+console.log("Número de caràcters:", primerCognom.length);
