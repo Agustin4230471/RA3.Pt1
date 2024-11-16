@@ -1,5 +1,5 @@
 //Exercici 6
-const number = 1.234;
+const number = 1234;
 const bigInt = 5678n;
 const bigIntAsNumber = Number(bigInt);
 
@@ -14,3 +14,11 @@ const b = 4
 const c = (a * a) + (b * a)
 const hipotenusa = Math.sqrt(c)
 console.log(hipotenusa)
+
+//Exercici 8
+const enter = 10;
+const string = "5";
+
+const resultat = enter / string;
+console.log(resultat);
+
