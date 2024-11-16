@@ -34,3 +34,10 @@ console.log("Número de caràcters:", primerCognom.length);
 let nomComplet2 = "Agustín Ruiz Sosa";
 const resultat2 = nomComplet2.slice(0, 6) + nomComplet2.slice(7);
 console.log(resultat2);
+
+//Exercici 11
+let undefined;
+let variableNull = null;
+
+const suma = undefined + variableNull;
+console.log(suma);
