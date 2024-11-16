@@ -50,3 +50,12 @@ console.log("booleà a string explicita:", bse);
 
 const bsi = booleano + "";
 console.log("booleà a string implicita:", bsi);
+
+//Exercici 13
+const string2 = "Hola";
+
+const sbe = Boolean(string2);
+console.log("String a booleà explicita:", sbe);
+
+const sbi = !!string2;
+console.log("String a booleà implicita:", sbi);
