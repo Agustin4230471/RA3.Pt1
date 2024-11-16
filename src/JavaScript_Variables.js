@@ -23,9 +23,3 @@ let variable2 = 1
 console.log(variable2)
 variable2 = "Hola"
 console.log(variable2)
-
-//Excercici 5
-const  constante1 = 1
-console.log(constante1)
-constante1 = "Hola"
-console.log(constante1)
