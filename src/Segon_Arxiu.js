@@ -41,3 +41,12 @@ let variableNull = null;
 
 const suma = undefined + variableNull;
 console.log(suma);
+
+//Exercici 12
+const booleano = true;
+
+const bse = String(booleano);
+console.log("booleà a string explicita:", bse);
+
+const bsi = booleano + "";
+console.log("booleà a string implicita:", bsi);
