@@ -59,3 +59,10 @@ console.log("String a booleà explicita:", sbe);
 
 const sbi = !!string2;
 console.log("String a booleà implicita:", sbi);
+
+//Exercici 14
+const bne = Number(booleano);
+console.log("Booleà a number explicita:", bne);
+
+const bni = booleano * 1;
+console.log("Booleà a number implicita:", bni);
